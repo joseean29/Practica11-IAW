@@ -151,8 +151,7 @@ Interesting Finding(s):
 En este escaneo haremos uso de la API de WPScan que nos permite detectar vulnerabilidades haciendo uso de su base de datos de vulnerabilidades.
 Para poder hacer uso del servicio de la API de WPScan es necesario registrarse en su web y obtener un TOKEN.
 
-![]()
-
+![](https://raw.githubusercontent.com/joseean29/Practica11-IAW/main/token.PNG)
 
 ```
 ubuntu@ip-172-31-69-249:~$  docker run -it --rm wpscanteam/wpscan --url http://3.235.181.10/ --api-token 5ap4C4Tpjxa095mtxkyH9L5OGp2xTPzDKcbd5jf7Gmc
